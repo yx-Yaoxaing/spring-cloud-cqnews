@@ -1,0 +1,4 @@
+# spring.factories
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.cqnews.oss.storage.StorageConfiguration,\
+  com.cqnews.oss.dao.DaoConfiguration
